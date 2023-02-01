@@ -8,4 +8,4 @@ test.
 
 New section added for feature readme instuctions branch
 
-Local development
+Local development added.
